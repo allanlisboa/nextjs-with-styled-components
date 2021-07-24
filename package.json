@@ -1,5 +1,5 @@
 {
-  "name": "Programmer NextJS Boilerplate",
+  "name": "programmer-nextjs-boilerplate",
   "private": true,
   "scripts": {
     "dev": "next",

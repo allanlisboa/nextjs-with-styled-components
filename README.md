@@ -1,7 +1,7 @@
 
 ![React Avançado](https://raw.githubusercontent.com/allanlisboa/nextjs-with-styled-components/main/public/assets/logo.svg)
 
-This is a [Next.js](https://nextjs.org/) boilerplate to be used in a course called [React Avançado](https://reactavancado.com.br/).
+This is a [Next.js](https://nextjs.org/) boilerplate with typescript and styled components.
 ![ci](https://github.com/allanlisboa/nextjs-with-styled-components/workflows/ci/badge.svg)
 ## What is inside?
 

@@ -5,6 +5,7 @@ const Main = ({
   description = 'Typescript, ReactJS, NextJS e Styled Components'
 }) => {
   const foo = 'bar'
+  const food = 'bar'
 
   return (
     <S.Wrapper>

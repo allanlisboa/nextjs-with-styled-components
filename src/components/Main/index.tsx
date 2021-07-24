@@ -4,9 +4,6 @@ const Main = ({
   title = 'Boilerplae NextJS',
   description = 'Typescript, ReactJS, NextJS e Styled Components'
 }) => {
-  const foo = 'bar'
-  const food = 'bar'
-
   return (
     <S.Wrapper>
       <S.Logo

@@ -56,7 +56,7 @@ exports[`<Main /> shold render the heading 1`] = `
   <h1
     class="c2"
   >
-    React Avançado
+    Boilerplae NextJS
   </h1>
   <h2
     class="c3"
@@ -69,4 +69,4 @@ exports[`<Main /> shold render the heading 1`] = `
     src="assets/hero-illustration.svg"
   />
 </div>
-`;
+`

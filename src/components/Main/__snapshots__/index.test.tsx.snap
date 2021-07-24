@@ -49,7 +49,7 @@ exports[`<Main /> shold render the heading 1`] = `
   class="c0"
 >
   <img
-    alt="Imagem de um átomo com texto React Avançado ao lado"
+    alt="Imagem de um átomo com texto React Avançado ao lado da imagem"
     class="c1"
     src="assets/logo.svg"
   />
